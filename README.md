@@ -1,5 +1,5 @@
 ## My BACK-END Travel Website
-This was an opportunity for me to develop object-oriented applications that I integrated with relational databases. I write code for object-oriented applications using Spring framework, and implements design patterns for object-oriented applications. This projected Consisted of an existing MySQL database and Angular front end that needed minor changes to work with the newly created Java using Spring Initializr each of the following dependencies: <br>
+This was an opportunity for me to develop object-oriented applications that I integrated with relational databases. Writting code for object-oriented applications using Spring framework, and implements design patterns for object-oriented applications. This projected consisted of an existing MySQL database and Angular front end that needed minor changes to work with the newly created Java using Spring Initializr each of the following dependencies: <br>
 
 •    Spring Data JPA (spring-boot starter-data-jpa)
 <br>
