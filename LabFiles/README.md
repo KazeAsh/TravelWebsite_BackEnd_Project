@@ -9,7 +9,7 @@
     - Open MySQL Workbench
     - Click on the 'Local instance MySQL80` connection.
     - Go to File > Open SQL Script
-    - The script is located at `C:\LabFiles\create_and_populate_db.sql`
+    - After downloading create_and_populate_db.ql then run it
     - Click the lightning bolt to execute the script.
 
 ## Frontend
